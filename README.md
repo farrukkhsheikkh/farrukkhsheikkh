@@ -29,35 +29,6 @@ Dedicated and results-driven Web Developer with extensive experience in WordPres
 *Jul 2006 – Mar 2008*
 - Responsible for managing the post-production process to create high-quality video content.
 
-## Projects
-1. Armsoftware.co
-2. Cosango.com
-3. Negmarkets.com
-4. promptfilings.com
-5. Saphyte.com
-6. Tradewithcapital.com
-7. Loyica.com
-8. Recrutiv.nl
-9. Tickpartners.com
-10. Fruityvapes.co.uk
-11. Evenoilfze.com
-12. Stpefx.io
-13. Stpsecurities.io
-14. Stppartners.com
-15. Stptrading.io
-16. h20.ae
-17. Thinkberryfunding.com
-18. Brandlessdigital.com
-19. Brandless.pk
-20. Hidayafabric.com
-21. Gkccorp.com
-22. Medusafunding.com
-23. Kfurnitures.com
-24. Greengroup UAE
-25. Ara Developers
-26. Filesgenius.com
-27. Forexpeek.com
-
 ## Contact
 - Email: hello@farrukkh.com, farrukkh.sheikkh@gmail.com
 - Phone: +923122512811
