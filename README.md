@@ -14,10 +14,10 @@ Dedicated and results-driven Web Developer with extensive experience in WordPres
 
 ### Web Developer at ARM Software Corp
 *Jan 2016 – Present*
-- Specialized in crafting responsive and visually appealing user interfaces using HTML, CSS, and JavaScript.
-- Ensured cross-browser compatibility and adhered to web standards for consistent experiences across platforms.
-- Managed collaborative development effectively utilizing version control using Git.
-- Optimized websites for SEO, monitored performance with tools like Google Search Console, and improved page speed using techniques like image optimization and caching.
+- Proficient in designing dynamic and visually captivating user interfaces leveraging Drupal, WordPress, Shopify, HTML, CSS, and Javascript.
+- Diligently maintained cross-browser compatibility and compliance with web standards for seamless experiences on various platforms.
+- Expertly coordinated collaborative development efforts, employing efficient version control techniques with Git.
+- Enhanced website performance for optimal SEO results, employing tools such as Google Search Console, and implementing strategies like image optimization and caching to boost page speed.
 
 ### Graphics and Brandings, Venture Chest
 *Apr 2008 – Mar 2010*
@@ -76,3 +76,6 @@ I thrive in dynamic environments where creativity and innovation are valued. Alw
 - AI Prompts
 
 *...and continuously learning.*
+
+##Keywords:
+UI design, Drupal, WordPress, Shopify, HTML, CSS, Javascript, cross-browser compatibility, web standards, version control, Git, SEO optimization, Google Search Console, image optimization, caching.
