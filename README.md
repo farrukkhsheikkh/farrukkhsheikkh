@@ -1,4 +1,4 @@
-# Farrukh Hussain - Front-End Developer
+# Farrukh Hussain
 
 ## Objective
 Dedicated and results-driven Web Developer with extensive experience in WordPress frontend development, Shopify, JavaScript, HTML, and CSS. Proficient in utilizing a range of design tools and technologies to create visually stunning and user-friendly websites. Seeking a challenging position where I can leverage my technical expertise and creative skills to contribute to the success of a dynamic team and deliver innovative digital solutions.
@@ -30,10 +30,10 @@ Dedicated and results-driven Web Developer with extensive experience in WordPres
 - Responsible for managing the post-production process to create high-quality video content.
 
 ## Contact
-- Email: hello@farrukkh.com, farrukkh.sheikkh@gmail.com
-- Phone: +923122512811
-- Website: [www.farrukkh.com](https://www.farrukkh.com)
-- Address: House 604, Precinct 2 Bahria Town Karachi.
+- Email: info@brandlessdigital.com
+- Phone: +93329779574
+- Website: [www.brandlessdigital.com](https://www.brandlessdigital.com)
+- Address: Office # 1704, Dominion Center 2, Jinnah Ave, Bahria Town Karachi.
 
 ## About Me
 I thrive in dynamic environments where creativity and innovation are valued. Always eager to stay ahead of the curve by exploring emerging technologies and best practices. Passionate about continuous learning and growth, excited to leverage my skills and experience to tackle new challenges and make a meaningful impact in the world of web development.
